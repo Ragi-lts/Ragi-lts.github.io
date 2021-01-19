@@ -3,8 +3,13 @@
 
 
     <sitemap>
-        <loc>http://example.com/post-sitemap.xml</loc>
-        <lastmod>2021-01-19T05:08:45.000Z</lastmod>
+        <loc>https://ragi-lts.github.io/post-sitemap.xml</loc>
+        <lastmod>2021-01-19T12:18:16.000Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://ragi-lts.github.io/page-sitemap.xml</loc>
+        <lastmod>2021-01-19T12:11:00.078Z</lastmod>
     </sitemap>
 
 </sitemapindex>
