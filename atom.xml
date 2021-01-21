@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ragiのブログ</title>
+  
+  
+  <link href="https://ragi-lts.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ragi-lts.github.io/"/>
+  <updated>2021-01-20T13:31:09.000Z</updated>
+  <id>https://ragi-lts.github.io/</id>
+  
+  <author>
+    <name>Ragi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>tf-idf</title>
+    <link href="https://ragi-lts.github.io/2021/01/20/tf-idf/"/>
+    <id>https://ragi-lts.github.io/2021/01/20/tf-idf/</id>
+    <published>2021-01-20T13:31:09.000Z</published>
+    <updated>2021-01-20T13:31:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Python-を使って-tf-idf-を求める"><a href="#Python-を使って-tf-idf-を求める" class="headerlink" title="Python を使って tf-idf を求める"></a>Python を使って tf-idf を求める</h2><p>研究の予備実験の段階で tf-idf の値を求めることになったので，ここにその足跡として，遺しておく．</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Python-を使って-tf-idf-を求める&quot;&gt;&lt;a href=&quot;#Python-を使って-tf-idf-を求める&quot; class=&quot;headerlink&quot; title=&quot;Python を使って tf-idf を求める&quot;&gt;&lt;/a&gt;Python を使って tf-id</summary>
+      
+    
+    
+    
+    <category term="研究" scheme="https://ragi-lts.github.io/categories/%E7%A0%94%E7%A9%B6/"/>
+    
+    <category term="research" scheme="https://ragi-lts.github.io/categories/%E7%A0%94%E7%A9%B6/research/"/>
+    
+    
+    <category term="tf-idf" scheme="https://ragi-lts.github.io/tags/tf-idf/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ブログはじめました</title>
+    <link href="https://ragi-lts.github.io/2021/01/19/first/"/>
+    <id>https://ragi-lts.github.io/2021/01/19/first/</id>
+    <published>2021-01-19T12:18:16.000Z</published>
+    <updated>2021-01-19T12:18:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Initial"><a href="#Initial" class="headerlink" title="Initial"></a>Initial</h2><hr><p>最初の投稿である．</p><h2 id="Code-Blocks"><a href="#Code-Blocks" class="headerlink" title="Code Blocks"></a>Code Blocks</h2><p>試しに，Python のコードを書いてみた．</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">main</span>():</span></span><br><span class="line">  a = [ <span class="string">&quot;a&quot;</span>, <span class="string">&quot;b&quot;</span>, <span class="string">&quot;c&quot;</span>]</span><br><span class="line">  print(    <span class="string">&#x27; &#x27;</span>.join(a))</span><br><span class="line">  <span class="keyword">return</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">(<span class="keyword">void</span>)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">  <span class="keyword">char</span> a[<span class="number">3</span>] = <span class="string">&quot;abc&quot;</span>;</span><br><span class="line"></span><br><span class="line">  <span class="built_in">printf</span>(<span class="string">&quot;%s&quot;</span>,a);</span><br><span class="line">  <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>なるほど，<em> きれいにハイライトもかかっていいじゃないか</em>．<br>これだとうまく書けそうだ．</p><h2 id="表についてはどうか"><a href="#表についてはどうか" class="headerlink" title="表についてはどうか"></a>表についてはどうか</h2><p>表も書いてみる．</p><div class="table-container"><table><thead><tr><th style="text-align:center">最初</th><th style="text-align:center">真ん中</th><th style="text-align:center">最後</th></tr></thead><tbody><tr><td style="text-align:center">表の</td><td style="text-align:center">見栄えは</td><td style="text-align:center">どうだろう</td></tr></tbody></table></div><p>なるほどね．</p><p>これからゆるーく書いていければいいかなと思います．（唐突の終了）</p><div style="text-align:right">$ return $</div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Initial&quot;&gt;&lt;a href=&quot;#Initial&quot; class=&quot;headerlink&quot; title=&quot;Initial&quot;&gt;&lt;/a&gt;Initial&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;最初の投稿である．&lt;/p&gt;
+&lt;h2 id=&quot;Code-Blocks&quot;&gt;&lt;a href=&quot;#</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
