@@ -23,7 +23,7 @@
     <published>2021-01-20T13:31:09.000Z</published>
     <updated>2021-01-20T13:31:09.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Python-を使って-tf-idf-を求める"><a href="#Python-を使って-tf-idf-を求める" class="headerlink" title="Python を使って tf-idf を求める"></a>Python を使って tf-idf を求める</h2><p>研究の予備実験の段階で tf-idf の値を求めることになったので，ここにその足跡として，遺しておく．</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Python-を使って-tf-idf-を求める"><a href="#Python-を使って-tf-idf-を求める" class="headerlink" title="Python を使って tf-idf を求める"></a>Python を使って tf-idf を求める</h2><p>研究の予備実験の段階で tf-idf の値を求めることになったので，ここにその足跡として，遺しておく．</p><h2 id="実装に時間かかった"><a href="#実装に時間かかった" class="headerlink" title="実装に時間かかった"></a>実装に時間かかった</h2>]]></content>
     
     
       
